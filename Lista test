@@ -271,3 +271,5 @@ http://dnsx.co:80/live/7885037935/fireurl.co/93519.ts
 http://dnsx.co:80/live/7885037935/fireurl.co/93520.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB",BBB Sala de Estar SD | TechRuthes.org
 http://dnsx.co:80/live/7885037935/fireurl.co/93521.ts
+#EXTINF:-1 tvg-logo"https://www.google.com/search?q=sportv+logo&client=lightning&prmd=insv&source=lnms&tbm=isch&biw=360&bih=510&dpr=2" group-title="SPORTV",sportv
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
