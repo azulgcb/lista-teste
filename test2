@@ -245,3 +245,5 @@ http://dnsx.co:80/live/7885037935/fireurl.co/93521.ts
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 tvg-name="iptvtools_199" tvg-logo="",iptvtools_199
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+#EXTINF:-1 tvg-name="BBB Teste Meu" tvg-logo= "", BBB TESTE
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
