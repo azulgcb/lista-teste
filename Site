@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio do Grupo de Capoeira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006400;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        nav {
+            background-color: #008000;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 1rem;
+            text-decoration: none;
+        }
+        .container {
+            padding: 2rem;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 300px;
+            margin: 1rem;
+        }
+        footer {
+            background-color: #006400;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Grupo de Capoeira - Portfólio</h1>
+    </header>
+
+    <nav>
+        <a href="#sobre">Sobre Nós</a>
+        <a href="#galeria">Galeria</a>
+        <a href="#contato">Contato</a>
+    </nav>
+
+    <div class="container">
+        <section id="sobre">
+            <h2>Sobre Nós</h2>
+            <p>Somos um grupo dedicado à prática e promoção da capoeira, uma expressão cultural que mistura arte marcial, música e dança. Nossos eventos e rodas são abertos para todos que queiram participar e aprender.</p>
+        </section>
+
+        <section id="galeria">
+            <h2>Galeria de Fotos</h2>
+            <div class="gallery">
+                <img src="foto1.jpg" alt="Foto de roda de capoeira">
+                <img src="foto2.jpg" alt="Apresentação do grupo">
+                <img src="foto3.jpg" alt="Treinamento de capoeira">
+            </div>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Para mais informações, entre em contato pelo e-mail: <a href="mailto:contato@grupocapoeira.com">contato@grupocapoeira.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2024 Grupo de Capoeira. Todos os direitos reservados.
+    </footer>
+</body>
+</html>
